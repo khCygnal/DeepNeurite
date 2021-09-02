@@ -1,5 +1,5 @@
 # DeepNeurite
-A deep learning model to identify neurite structure in fluorescence images.
+A deep learning model to identify neurite structure in fluorescence images developed by [Cygnal therapeutics](https://cygnaltx.com/).
 The architecture was inspired by [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/).
 
 ## Overview
